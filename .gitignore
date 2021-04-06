@@ -1,0 +1,5 @@
+.provarCaches/
+.metadata/
+.chromeProfiles/
+.testCycles/
+**/ANT/Results*/**
