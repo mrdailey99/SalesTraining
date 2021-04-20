@@ -2,7 +2,7 @@
 	<property name="version" value="2.231.7.0"/>
 	<property environment="env"/>
 	<property name="provar.home" value="${env.PROVAR_HOME}"/>
-	<property name="testproject.home" value="${env.WORKSPACE}"/>
+	<property name="testproject.home" value="${env.WORKSPACE}/SalesTraining"/>
 	<property name="testproject.results" value="${testproject.home}/ANT/Results"/>
 	<property name="secrets.password" value="${env.PROVAR_SECRETS_PASSWORD}"/>
 
